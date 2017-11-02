@@ -8,3 +8,5 @@ spring:
     port: 5672
     # username: user
     # password: password
+
+foo.bar: db
