@@ -1,5 +1,6 @@
 a.b: true
 
-my.rabbitmq:
-  port: 5672
-  host: 192.168.99.100
+spring:
+  rabbitmq:
+    host: 192.168.99.100
+    port: 5672
